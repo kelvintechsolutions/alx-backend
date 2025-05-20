@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 msgid "home_title"
-msgstr "Welcome to ALX"
+msgstr "Bienvenue chez ALX"
 
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
